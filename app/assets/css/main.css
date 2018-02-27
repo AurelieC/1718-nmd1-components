@@ -1,0 +1,32 @@
+.btn{
+    border: 1px solid #f00;
+    padding: 5px 16px;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #f00;
+}
+.btn:hover{
+    background: #f00;
+    color: #fff;
+
+}
+.primary-btn{
+    background: #0f0;
+    color: #fff;
+
+}
+.primary-btn:hover{
+    background: #fff;
+    color: #0f0
+
+}
+.secondary-btn{
+    background: #00f;
+    color: #fff;
+    border-color: #00f;
+}
+.secondary-btn:hover{
+    background: #fff;
+    color: #00f;
+}
+
